@@ -39,7 +39,6 @@ function main() {
   const createPathFromTemplateTo = createPath(TEMPLATE_DIR)
   
   const files = [
-    '.gitignore',
     'package.json',
     'webpack.config.js',
     'common-import.js',
