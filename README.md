@@ -1,4 +1,4 @@
-# tgen
+# tugen
 
 A simple tool generates simple front-end app structure, built with webpack 4, boostrap, jquery.
 
@@ -6,7 +6,7 @@ A simple tool generates simple front-end app structure, built with webpack 4, bo
 
 Install: 
 ```
-npm install -g tgen
+npm install -g tugen
 ```
 
 Run it:
@@ -14,7 +14,7 @@ Run it:
 mkdir example
 cd example
 
-tgen .
+tugen .
 ``` 
 
 Output directory structure:
@@ -41,7 +41,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/darkamenosa/tgen/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/darkamenosa/tugen/tags). 
 
 ## Authors
 

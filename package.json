@@ -1,17 +1,19 @@
 {
-  "name": "tgen",
+  "name": "tugen",
   "version": "1.0.0",
   "description": "Simple generator for static app",
   "main": "./bin/index.js",
   "preferGlobal": true,
   "bin": {
-    "tgen": "./contact.js"
+    "tugen": "./contact.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkamenosa/tugen"
+  },
+  "homepage": "https://github.com/darkamenosa/tugen",
   "scripts": {},
-  "keywords": [
-    "generator",
-    "tgen"
-  ],
+  "keywords": ["generator", "tugen"],
   "author": "tuyenhx",
   "license": "MIT",
   "dependencies": {
