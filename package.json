@@ -5,7 +5,7 @@
   "main": "./bin/index.js",
   "preferGlobal": true,
   "bin": {
-    "tugen": "./contact.js"
+    "tugen": "./bin/index.js"
   },
   "repository": {
     "type": "git",
