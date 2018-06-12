@@ -1,0 +1,21 @@
+{
+  "name": "tgen",
+  "version": "1.0.0",
+  "description": "Simple generator for static app",
+  "main": "./bin/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "tgen": "./contact.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "generator",
+    "tgen"
+  ],
+  "author": "tuyenhx",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "commander": "^2.15.1"
+  }
+}
